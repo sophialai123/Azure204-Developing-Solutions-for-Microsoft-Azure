@@ -1,6 +1,6 @@
 # Azure204-Developing-Solutions-for-Microsoft-Azure
 
-### Steps to deploy application through Cloud Shell or Bash in Azure portal
+### Steps to deploy application through `Cloud Shell` or `Bash` in `Azure portal`
 1. `mkdir newDirName` - make directory
 2. `cd newDirName` - change to the new directory
 3. `git clone https://github.com/sophialai123/happybirthday.git` - clone any repos from github
