@@ -1,6 +1,6 @@
 # Azure204-Developing-Solutions-for-Microsoft-Azure
-
-### Steps to deploy application through `Cloud Shell` or `Bash` in `Azure portal`
+#### [Create a static HTML web app by using Azure Cloud Shell](https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-app-service/7-create-html-web-app)
+### Steps to deploy application through `Cloud Shell` or `Bash` in `Azure portal` 
 1. `mkdir newDirName` - make directory
 2. `cd newDirName` - change to the new directory
 3. `git clone https://github.com/sophialai123/happybirthday.git` - clone any repos from github
